@@ -2,8 +2,9 @@
 
 A storytelling Power BI dashboard analyzing Pixar’s top 30 movies by box office revenue, ratings, and release year.
 
-## 📋 Notes
+### 📋 Notes
 The interactive dashboard I created was part of a Maven challenge, and it helped me learn many new skills.
+
 ---
 ## 🛠 Tools Used
 - Power BI  
@@ -29,12 +30,12 @@ The interactive dashboard I created was part of a Maven challenge, and it helped
 
  --- 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard](Dashboard.jpeg)
 
 ---
 ## 📂 Files
-- Pixar 30.pbix  
-- Pixar 30 dashboard .Pdf
+- https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pbix  
+- https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pdf
 ---
 ## 🗂️ Data Source
 - https://mavenshowcase.com/project/29961
