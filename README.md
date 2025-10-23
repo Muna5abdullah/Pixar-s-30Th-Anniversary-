@@ -1,4 +1,4 @@
-# 🎬 Pixar 30 Dashboard (Power BI)
+# 🎬 Pixar's 30Th Anniversary Dashboard 
 
 A storytelling Power BI dashboard analyzing Pixar’s top 30 movies by box office revenue, ratings, and release year.
 
