@@ -34,8 +34,8 @@ The interactive dashboard I created was part of a Maven challenge, and it helped
 
 ---
 ## 📂 Files
-- https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pbix  
-- https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pdf
+-(Pbix) https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pbix  
+- (Pdf) https://github.com/Muna5abdullah/Pixar-s-30Th-Anniversary-/blob/main/Pixar's%2030Th%20dashboard.pdf
 ---
 ## 🗂️ Data Source
 - https://mavenshowcase.com/project/29961
